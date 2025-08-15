@@ -1,0 +1,11 @@
+6 9 U
+P Q 3
+P R 2
+Q R 4
+Q S 5
+R S 1
+R T 3
+S T 2
+T U 4
+U P 2
+Q
